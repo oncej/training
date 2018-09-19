@@ -19,3 +19,5 @@ yarn run build
 ```
 yarn run lint
 ```
+# training
+a small vue project for training
